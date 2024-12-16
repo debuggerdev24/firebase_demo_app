@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506151123823",
+    "project_id": "dev-develop-qzrx64",
+    "storage_bucket": "dev-develop-qzrx64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506151123823:android:acead4da5197ad11aa069a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Qi8IBG2gBEjThutQD3-4LHtoTJO-o1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506151123823:android:4235d7d1c7c140a8aa069a",
+        "android_client_info": {
+          "package_name": "com.mycompany.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Qi8IBG2gBEjThutQD3-4LHtoTJO-o1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
